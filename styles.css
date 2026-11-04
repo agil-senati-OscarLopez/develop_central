@@ -30,3 +30,7 @@ body {
 .badge-scrum { background-color: #0d6efd; }
 .badge-kanban { background-color: #198754; }
 .badge-xp { background-color: #dc3545; }
+
+   .nav-link:hover {
+       color: #ffc107 !important;
+   }
